@@ -1,9 +1,9 @@
 {
     "name":  "Aphelia",
-    "version":  "0.20.1",
-    "chromium":  "158.0.8122.36",
-    "url":  "https://github.com/Promethion-Dev-Tech/aphelia-releases/releases/download/v0.20.1/ApheliaSetup.exe",
-    "sha256":  "128c10caad5d30f6048c421036e9e0e907d7845568753280f7f4717fb7876e83",
-    "notes":  "Your tabs are safe: Aphelia now reopens all your tabs, pins, folders and Spaces after a restart, an update or a crash, and keeps automatic backups of your last 40 sessions. Closing a tab no longer jumps to another Space: you stay in the Space, or see its Home when it was the last tab. Tabs kept from a Glance or a web app panel are saved right away. The taskbar and Start menu now show the new Aphelia icon.",
-    "published":  "2026-11-14T08:45:16.4422886Z"
+    "version":  "0.21.0",
+    "chromium":  "158.0.8122.37",
+    "url":  "https://github.com/Promethion-Dev-Tech/aphelia-releases/releases/download/v0.21.0/ApheliaSetup.exe",
+    "sha256":  "4063856a4274f571d052515e7d4e15fe66e14a56fb53975ae044643ead165f71",
+    "notes":  "Faster, safer browsing on every start. Shields now blocks scam and fake-download pages outright, adds uBlock Origin\u0027s malware list, and keeps YouTube and other ad fixes fresh by checking lists every hour. The VPN restarts itself if it stops, lets you pick sites that skip it (in Control), keeps your home network reachable, and tells you if your network is blocking it. When you turn on your PC, Aphelia waits for the machine to settle before loading your other Spaces in the background.",
+    "published":  "2026-11-17T13:53:44.3713183Z"
 }
