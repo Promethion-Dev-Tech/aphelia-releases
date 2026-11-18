@@ -1,9 +1,9 @@
 {
     "name":  "Aphelia",
-    "version":  "0.21.0",
-    "chromium":  "158.0.8122.37",
-    "url":  "https://github.com/Promethion-Dev-Tech/aphelia-releases/releases/download/v0.21.0/ApheliaSetup.exe",
-    "sha256":  "4063856a4274f571d052515e7d4e15fe66e14a56fb53975ae044643ead165f71",
-    "notes":  "Faster, safer browsing on every start. Shields now blocks scam and fake-download pages outright, adds uBlock Origin\u0027s malware list, and keeps YouTube and other ad fixes fresh by checking lists every hour. The VPN restarts itself if it stops, lets you pick sites that skip it (in Control), keeps your home network reachable, and tells you if your network is blocking it. When you turn on your PC, Aphelia waits for the machine to settle before loading your other Spaces in the background.",
-    "published":  "2026-11-17T13:53:44.3713183Z"
+    "version":  "0.21.1",
+    "chromium":  "158.0.8122.41",
+    "url":  "https://github.com/Promethion-Dev-Tech/aphelia-releases/releases/download/v0.21.1/ApheliaSetup.exe",
+    "sha256":  "e8ce1b6165a5369139f60023df5d674b91c2d3b6d0e3c1de9db8f5747f56df8d",
+    "notes":  "Site icons on sleeping pinned/folder tabs; Reload button in the search bar, copy-clean-link moved left of the URL; browser logos on imported bookmark folders; password Save prompt now opens above the search bar, strong-password suggestions on sign-up forms, Library Passwords gets Add/Check/Settings/Edit; Spaces load in the background within seconds of launch so switching is instant sooner.",
+    "published":  "2026-11-18T23:47:59.9647086Z"
 }
